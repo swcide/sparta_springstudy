@@ -1,4 +1,4 @@
-package com.sparta.springcore;
+package com.sparta.springcore.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -16,4 +16,6 @@ public class ProductRequestDto {
     private String link;
     // 관심상품의 최저가
     private int lprice;
+
+    private int myprice;
 }

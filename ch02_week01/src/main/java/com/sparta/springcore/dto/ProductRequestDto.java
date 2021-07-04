@@ -17,5 +17,5 @@ public class ProductRequestDto {
     // 관심상품의 최저가
     private int lprice;
 
-    private int myprice;
+
 }
